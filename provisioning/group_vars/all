@@ -1,0 +1,4 @@
+---
+
+node_version: v8.10.0
+nodebrew_install_user: vagrant
